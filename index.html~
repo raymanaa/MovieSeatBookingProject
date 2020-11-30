@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/raymanaa/MovieSeatBookingProject/main/style.css">
+    <link type="text/css" href="https://raw.githubusercontent.com/raymanaa/MovieSeatBookingProject/main/style.css">
     <title>Movie Seat Booking</title>
 </head>
 <body>
